@@ -1,0 +1,2 @@
+Un palindromo es una frase que se lee igual de 
+izquierda a derecha y viceversa. 
